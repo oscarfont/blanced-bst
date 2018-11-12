@@ -1,6 +1,6 @@
 # Balanced BST
 
-Command line application developed with Lucía Gasión and Marc Canal in our second year of Computer Science Degree at Universitat Pompeu Fabra.  
+Command line application developed with Lucía Gasión and @mcanal8 in our second year of Computer Science Degree at Universitat Pompeu Fabra.  
 Course name: Data Structures and Algorithms.  
 Language: C.  
 IDE: NetBeans.  
